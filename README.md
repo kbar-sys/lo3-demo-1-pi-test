@@ -2,3 +2,5 @@
 An upload just for fun. I'm testing Irrlicht out on a RPi Zero 1.
 
 g++ -o bin/debug (or any folder two directories in)
+
+run in the bin/debug folder, or the files will complain that they aren't found
